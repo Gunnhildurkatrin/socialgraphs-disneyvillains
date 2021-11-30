@@ -39,7 +39,7 @@ Syntax highlighted code block
 
 ![bla description]({{< baseurl >}}/static/images/prufa.png)
 
-![image description]({{< baseurl >}}/prufa.png)
+![image description]({{< baseurl >}}/images/prufa.png)
 
 
 
