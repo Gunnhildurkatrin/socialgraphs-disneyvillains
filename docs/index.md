@@ -33,7 +33,9 @@ Syntax highlighted code block
 
 ## Mynd prufa
 
-![Prufa]({{< baseurl >}}/prufa.png)
+![Prufa]({{< baseurl >}}/images/prufa.png)
+
+[Prufa]({{< baseurl >}}/images/prufa.png)
 
 ![Prufa](prufa.png)
 
