@@ -33,11 +33,11 @@ Syntax highlighted code block
 
 ## Image
 
-![Prufa]({{< https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/ >}}/images/prufa.png)
+![Prufa]({{< https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/ >}}/prufa.png)
 
-![hallo]({{< 'https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/' >}}/images/prufa.png)
+![hallo]({{< 'https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/' >}}/prufa.png)
 
-![image description]({{< baseurl >}}/images/prufa.png)
+![image description]({{< baseurl >}}/prufa.png)
 
 
 
