@@ -41,6 +41,9 @@ Syntax highlighted code block
 
 ![Image](/content/images/prufa.png)
 
+<link rel="icon" href="https://github.com/Gunnhildurkatrin/socialgraphs-disneyvillains/blob/main/content/images/purfa.png" type="image/x-icon">
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
