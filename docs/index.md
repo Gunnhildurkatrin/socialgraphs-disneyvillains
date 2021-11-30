@@ -31,11 +31,11 @@ Syntax highlighted code block
 {{< youtube PLOba6OKTJnLbDvwBBEwO1EaVsiICn8Svw >}}
 
 
-## Mynd prufa
+## Image
 
-![Prufa]({{< http://example.org/ >}}/content/images/prufa.png)
+![Image]({{< http://example.org/ >}}/content/images/prufa.png)
 
-![Prufa]({{< baseurl >}}/content/images/prufa.png)
+![Image]({{< baseurl >}}/content/images/prufa.png)
 
 {{< figure src="/content/images/prufa.png" title="Mynd" >}}
 
