@@ -32,7 +32,6 @@ Syntax highlighted code block
 
 
 ## Mynd prufa
-{{< figure src="purfa.png" title="Purfa" >}}
 
 ![Prufa]({{< baseurl >}}/prufa.png)
 
