@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 ![Bull]({{< 'https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/' >}}/prufa.png)
 
-![image description]({{< baseurl >}}/prufa.png)
+![bla description]({{< baseurl >}}/prufa.png)
 
 
 
