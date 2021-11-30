@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/'
 languageCode = 'en-us'
 title = 'Disney Villans'
 theme = "ananke"
