@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 ## Image
 
-![LALA]({{"https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/"}}/images/prufa.png)
+![LALA](/images/prufa.png)
 
 ![figure]({{"https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/"}}/static/images/prufa.png)
 
