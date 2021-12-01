@@ -32,7 +32,7 @@ Gunnhildur og Anita
 
 ![image](/images/prufa.png)
 
-![image](../content/images/prufa.png)
+![image](/content/images/prufa.png)
 
 
 
