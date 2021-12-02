@@ -34,8 +34,6 @@ Gunnhildur og Anita
 
 ![image](/images/purfa.png)
 
-image src="/images/purfa.png" alt="Hello Friend" position="center" style="border-radius: 8px;"
-
 
 
 
