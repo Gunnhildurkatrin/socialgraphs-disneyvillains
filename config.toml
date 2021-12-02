@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'Disney Villans'
 theme = "ananke"
 publishDir = "docs"
+canonifyURLs = true
