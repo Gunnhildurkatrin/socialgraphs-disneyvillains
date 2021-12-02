@@ -32,7 +32,7 @@ Gunnhildur og Anita
 
 ![image](/images/purfa.png)
 
-![bla](/static/images/purfa.png)
+![mynd](/static/images/purfa.png)
 
 ![image](/content/images/purfa.png)
 
