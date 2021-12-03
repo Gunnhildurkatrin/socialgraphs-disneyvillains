@@ -32,9 +32,9 @@ Gunnhildur og Anita
 
 ![image](https://github.com/Gunnhildurkatrin/socialgraphs-disneyvillains/images/purfa.png)
 
-(![image](/images/purfa.png))
+![image](static/images/purfa.png)
 
-![image]({{< baseurl >}}/content/images/purfa.png)
+![image]({{< baseurl >}}/static/images/purfa.png)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
