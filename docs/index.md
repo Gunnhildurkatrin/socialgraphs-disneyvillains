@@ -30,7 +30,7 @@ Gunnhildur og Anita
 
 ## Image
 
-![image](https://github.com/Gunnhildurkatrin/socialgraphs-disneyvillains/static/images/purfa.png)
+![image](https://gunnhildurkatrin.github.io/socialgraphs-disneyvillains/images/purfa.png)
 
 ![image](/static/images/purfa.png)
 
